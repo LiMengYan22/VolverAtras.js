@@ -1,2 +1,2 @@
 # VolverAtras.js
-Botón para volver a la página anterior, en JAVASCRIPT..
+Botón con función: *window.history.back* para volver a la página anterior, en JAVASCRIPT..
